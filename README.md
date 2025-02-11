@@ -8,13 +8,11 @@
   <img align="left" alt="Yash's Email" width="24px" height="20px" src="https://media.giphy.com/media/UShcAHeMQvM708tGdY/giphy.gif" />
 </a>
 
-<a href="https://twitter.com/yashHanda98" target="_blank">
+<a href="https://x.com/Karthikeya_0" target="_blank">
   <img align="left" alt="Yash Handa | Twitter" width="22px" height="22px" src="https://media.giphy.com/media/N7sG50flbD9pS/giphy.gif" />
 </a>
 
-<a href="https://t.me/YashHanda" target="_blank">
-  <img align="left" alt="Yash's Telegram" width="22px" height="20px" src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Yash-Handa.Yash-Handa)
 
