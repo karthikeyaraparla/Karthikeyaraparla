@@ -27,8 +27,8 @@ Hi, I'm [Karthikeya Raparla], a Full Stack Developer 🚀 from India, currently,
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently practicing Golang and Micro Services; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@yashHanda98](https://twitter.com/yashHanda98);
-- 📝[Resume](https://drive.google.com/file/d/1-7rpEGuITj2qRmfXbZ8LJa3hoPmgVL7m/view)
+- 📫 How to reach me: [@karthikeyaraparla](https://www.linkedin.com/in/karthikeya-r/);
+- 📝[Resume](https://drive.google.com/file/d/1ctebF6b6s8jTebFRTrkVtzxhar6inR5x/view?usp=sharing)
 
 <br>
 
