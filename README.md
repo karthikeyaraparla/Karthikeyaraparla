@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"/><img src="https://img.icons8.com/color/48/000000/walter-white.png" width="50px" height="50px"/>
 
-<a href="https://www.linkedin.com/in/yash-handa-bb767b130/" target="_blank">
-  <img align="left" alt="Yash's LinkdeIN" width="24px" height="22px" src="/linkedin.gif?raw=true" />
+<a href="https://www.linkedin.com/in/karthikeya-r/" target="_blank">
+  <img align="left" alt="Karthikeya's LinkdeIN" width="24px" height="22px" src="/linkedin.gif?raw=true" />
 </a>
 
 <a href="mailto: yashhanda7@yahoo.com" target="_blank">
