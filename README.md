@@ -4,7 +4,7 @@
   <img align="left" alt="Karthikeya's LinkdeIN" width="24px" height="22px" src="/linkedin.gif?raw=true" />
 </a>
 
-<a href="mailto: yashhanda7@yahoo.com" target="_blank">
+<a href="mailto: karthikeyar1811@gmail.com" target="_blank">
   <img align="left" alt="Yash's Email" width="24px" height="20px" src="https://media.giphy.com/media/UShcAHeMQvM708tGdY/giphy.gif" />
 </a>
 
