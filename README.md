@@ -44,6 +44,7 @@ Languages:
 </span>
 
   <img align="right" alt="Stats" src="![LeetCode Stats](https://leetcard.jacoblin.cool/karthikeya4?theme=dark&font=ABeeZee)" />
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/karthikeya4?theme=dark&font=ABeeZee)
 
 Web Front End:
 <span>
