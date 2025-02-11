@@ -43,8 +43,7 @@ Languages:
 <img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25px" width="25px"></img>
 </span>
 
-  <img align="right" alt="Stats" src="![LeetCode Stats](https://leetcard.jacoblin.cool/karthikeya4?theme=dark&font=ABeeZee)" />
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/karthikeya4?theme=dark&font=ABeeZee)
+![LeetCode Stats](https://leetcard.jacoblin.cool/karthikeya4?theme=dark&font=ABeeZee)
 
 Web Front End:
 <span>
