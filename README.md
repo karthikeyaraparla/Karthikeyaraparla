@@ -51,15 +51,6 @@ Web Front End:
 <img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="25px" width="25px"></img>
 </span>
 
-Back End:
-<span>
-<img style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Go-Gin" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://raw.githubusercontent.com/apollographql/apollo-client/master/docs/source/logo/favicon.png" alt="Apollo" height="25px" width="25px"></img>
-</span>
 
 Databases:
 <span>
@@ -75,12 +66,5 @@ APIs:
 <img style="margin: 0 10px" src="https://miro.medium.com/max/599/1*uHzooF1EtgcKn9_XiSST4w.png" alt="Rest" height="25px" width="25px"></img>
 </span>
 
-Dev-Ops (in progress):
-<span>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25px" width="25px"></img>
-</span>
+
 <br />
