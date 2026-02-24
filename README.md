@@ -10,7 +10,7 @@ Currently open to **new opportunities** and exciting backend-focused roles.
 
 * 💼 LinkedIn: https://www.linkedin.com/in/karthikeya-r/
 * 📧 Email: [karthikeyar1811@gmail.com](mailto:karthikeyar1811@gmail.com)
-* 🧠 LeetCode: https://leetcode.com/u/k3tlQaNK8B/
+* 🧠 LeetCode: https://leetcode.com/u/karthikeya_sde/
 * 📄 Resume: https://drive.google.com/file/d/1ctebF6b6s8jTebFRTrkVtzxhar6inR5x/view?usp=sharing
 
 ---
@@ -56,7 +56,7 @@ Currently open to **new opportunities** and exciting backend-focused roles.
 
 ### 📊 LeetCode Stats
 
-![LeetCode Stats]([https://leetcard.jacoblin.cool/k3tlQaNK8B?theme=dark\&font=ABeeZee](https://leetcode.com/u/karthikeya_sde/))
+![LeetCode Stats](https://leetcard.jacoblin.cool/karthikeya_sde?theme=dark\&font=ABeeZee)
 
 ---
 
