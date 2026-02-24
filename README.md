@@ -56,7 +56,7 @@ Currently open to **new opportunities** and exciting backend-focused roles.
 
 ### 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/k3tlQaNK8B?theme=dark\&font=ABeeZee)
+![LeetCode Stats]([https://leetcard.jacoblin.cool/k3tlQaNK8B?theme=dark\&font=ABeeZee](https://leetcode.com/u/karthikeya_sde/))
 
 ---
 
