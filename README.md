@@ -1,8 +1,8 @@
 ### Hey there 👋
 
 Hi, I'm **Karthikeya Raparla**, a **Backend .NET Developer** 🚀 from India.
-I love building **scalable APIs, clean backend architectures, and efficient systems**.
-Currently open to **new opportunities** and exciting backend-focused roles.
+I love building **clean backend architectures, and efficient systems**.
+
 
 ---
 
